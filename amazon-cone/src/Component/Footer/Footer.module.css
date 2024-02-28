@@ -1,0 +1,61 @@
+.upper {
+    background-color: #37475A;
+    color: white;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+}
+.lower {
+    background-color:#232F3E;
+    color: rgba(245, 245, 245, 0.826);
+    display: flex;
+    gap: 130px;
+    padding-left: 180px;
+    padding-top: 50px;
+    font-size: small;
+    height: 400px;
+}
+h3 {
+    padding-bottom: 13px;
+    color: white;
+}
+p {
+    padding-bottom: 15px;
+}
+.logo {
+    width: 100%;
+
+    padding-top: 5px;
+    margin-left: 20px;
+    vertical-align: middle;
+    background-color: #232F3E;
+  }
+.wrapper {
+    background-color: #131A22;
+    color: rgba(255, 255, 255, 0.744);
+    display: flex;
+    padding-top: 30px;
+    font-size: small;
+    height: 400px;
+    padding-left: 100px;
+    padding-right: 100px;
+    gap: 50px;
+}
+.hey div {
+    padding-bottom: 30px;
+}
+.me {
+    display: flex;
+    padding-left: 300px;
+    gap: 30px;
+    background-color: #131A22;
+    color:rgba(255, 255, 255, 0.744) ;
+    font-size: smaller;
+}
+.last {
+    padding-left: 300px;
+    gap: 30px;
+    background-color: #131A22;
+    color:rgba(255, 255, 255, 0.744) ;
+    font-size: smaller;
+}
