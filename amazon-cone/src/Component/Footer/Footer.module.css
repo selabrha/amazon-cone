@@ -59,3 +59,8 @@ p {
     color:rgba(255, 255, 255, 0.744) ;
     font-size: smaller;
 }
+.fixed{
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    }
